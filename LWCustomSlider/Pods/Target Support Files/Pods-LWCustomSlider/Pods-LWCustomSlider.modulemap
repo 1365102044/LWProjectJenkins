@@ -1,0 +1,6 @@
+framework module Pods_LWCustomSlider {
+  umbrella header "Pods-LWCustomSlider-umbrella.h"
+
+  export *
+  module * { export * }
+}
